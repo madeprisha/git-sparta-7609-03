@@ -11,6 +11,11 @@ Tetap fokus jangan tidur
 
 Tempat udara selalu bersih
 Termpat angin selalu nikmat
+<<<<<<< HEAD
 >>>>>>> c0bcc2305804b884bbfbe2cccf2377a466d29cf0
 
 kamal noob
+=======
+
+16518380
+>>>>>>> 439c196eaa009b1edc866137ea3992f088ac623a
