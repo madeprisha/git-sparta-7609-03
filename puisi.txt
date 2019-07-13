@@ -1,9 +1,25 @@
+<<<<<<< HEAD
 Bertuding langit selalu biru
 Tempat cahaya selalu benderang
 Tempat air selalu jernih
 Tempat pohon selalu rimbun
 Tempat udara selalu bersih
 Termpat angin selalu nikmat
-[... 4 baris]
+
+Mari jaga bumi kita
+dari tangan tangan tak bertanggung jawab
+dari nafsu manusia yang egois
+dari manusia yang tak peduli lingkungan
 
 16518216
+=======
+Bertudung langit selalu biru
+Tempat cahaya selalu benderang
+Tutup mata tundukkan kepala
+Tetap fokus jangan tidur
+
+Tempat udara selalu bersih
+Termpat angin selalu nikmat
+
+16518380
+>>>>>>> 439c196eaa009b1edc866137ea3992f088ac623a
